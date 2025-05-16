@@ -3,8 +3,17 @@ This is a Python Tkinter-based flight reservation system app with SQLite databas
 ## How to run
 
 1. Make sure Python 3 is installed.
-2. Install required packages with: pip install -r requirements.txt
-3. Run the app: python app.py
-4. The app will create the database automatically if it doesn’t exist.
+You can download it from https://www.python.org/downloads/
+2. Install required packages are.
+Open a terminal (PowerShell) in the project folder (where the files are).
+3. pip install -r requirements.txt
+4. Run the app by running this command: python python flight_reservation_app.py
+5. The app will create the database automatically if it doesn’t already exist.
 
-Enjoy!
+6. Enjoy booking your flights!
+
+## Application Features:
+
+- Book flights  
+- View and update reservations  
+- Delete bookings
